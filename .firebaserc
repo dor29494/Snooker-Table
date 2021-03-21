@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "snooker-scoreboard-a3bc3",
+    "staging": "snookerapp",
+    "production": "snookerboardapp"
+  }
+}
